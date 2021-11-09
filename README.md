@@ -1,6 +1,16 @@
+----
+
+**NOTE**
+
+Project moved to source hut: 
+https://git.sr.ht/~code0x378/goscii
+
+----
+
 # Goscii
 
 Goscii is a very poor quality ascii art generator written in go.
+
 
 ## Usage
 
